@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I'm Kipkoech — a passionate Computer Science and an aspiring Cybersecurity Specialist.<br>I love exploring how technology works under the hood, from networks and systems to code and security.<br>🚀 What I Do<br>💻 Build and experiment with software projects <br>🌐 Dive deep into networking and cybersecurity <br>🔧 Tinker with Arduino, IoT, and automation systems<br>☁️ Explore cloud, machine learning, and system security<br>🧠 Currently Learning<br>Ethical Hacking & Threat Analysis<br>Advanced Networking & System Defense<br>⚡ Fun Fact<br>I enjoy breaking things (ethically 😉) just to understand how to fix them better.
+Hey there! I'm Kipkoech - a passionate Computer Science and an aspiring Cybersecurity Specialist.<br>I love exploring how technology works under the hood, from networks and systems to code and security.<br>🚀 What I Do<br>💻 Build and experiment with software projects <br>🌐 Dive deep into networking and cybersecurity <br>🔧 Tinker with Arduino, IoT, and automation systems<br>☁️ Explore cloud, machine learning, and system security<br>🧠 Currently Learning<br>Ethical Hacking & Threat Analysis<br>Advanced Networking & System Defense<br>⚡ Fun Fact<br>I enjoy breaking things (ethically 😉) just to understand how to fix them better.
 
 
 # 💻 Tech Stack:
